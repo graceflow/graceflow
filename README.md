@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am an ordinary middle school student who is close to my hobby, and I am learning programming by creating discord robots.
-![gunyu1019's github Status](https://github-readme-stats.vercel.app/api?username=junhong123a&count_private=true&show_icons=true&theme=tokyonight)
+![junhong123a's github Status](https://github-readme-stats.vercel.app/api?username=junhong123a&count_private=true&show_icons=true&theme=tokyonight)
 ### Top Language
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=junhong123a&theme=tokyonight&layout=compact)<br/>
 **I can do**
