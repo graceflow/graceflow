@@ -15,6 +15,9 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 
 **I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
 
+### Time Traker
+[![time tracker](https://wakatime.com/badge/github/junhong123a/jbot.svg)](https://wakatime.com/badge/github/junhong123a/jbot)
+
 ### Project
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@gunyu1019)<br/>
 
