@@ -16,7 +16,9 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 **I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
 
 ### Project
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=junhong123a&theme=tokyonight)](https://wakatime.com/@junhong123a)
+github-readme-stats.vercel.app/api/top-langs/?username={사용자명}&langs_count=8
+
+출처: https://ndb796.tistory.com/512 [안경잡이개발자]
 
 **junhongbot**
 <a href="https://discord.com/api/oauth2/authorize?client_id=503502157925056514&permissions=8&scope=bot">
