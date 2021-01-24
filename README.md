@@ -14,7 +14,6 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 
 ### Project
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@gunyu1019)<br/>
-**I am proceeding with and managing several projects, but I would like to introduce the projects below.(as of 2020)<br/>**
 <a href="http://www.yonghyeon.com/YBOT/">
   <img src="http://www.yonghyeon.com/YBOT/static/img/YBOT.png" width="30px">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
