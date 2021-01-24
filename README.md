@@ -13,5 +13,8 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 **I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
 
 ### My Projects
-c++ project : https:/github.com/junhong123a/
+c++ project : https://github.com/junhong123a/c-project
+junhongbot : https://github.com/junhong123a/jbot
+
+
 
