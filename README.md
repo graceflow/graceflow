@@ -16,7 +16,7 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 **I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
 
 ### Project
-<a href="github-readme-stats.vercel.app/api/top-langs/?username={junhong123a}&langs_count=8">
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@gunyu1019)<br/>
 
 **junhongbot**
 <a href="https://discord.com/api/oauth2/authorize?client_id=503502157925056514&permissions=8&scope=bot">
