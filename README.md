@@ -14,22 +14,6 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 
 ### Project
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@junhong123a)<br/>
-</a><br/>
-<a href="http://www.yonghyeon.com/PUBG_BOT/invite.html">
-  <img src="https://cdn.discordapp.com/avatars/704683198164238446/881185aa6072380f23df7517e483e8ff.png"  width="30px">
-  <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
-</a><a href="https://github.com/Team-Developer-Space/PUBG-BOT">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
-</a><br/><a href="https://yhs.kr">
-  <img src="https://img.shields.io/badge/YWEB-00AAFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PREPARING(MAKING)-AA0000?style=for-the-badge">
-</a><a href="https://www.ssllabs.com/ssltest/analyze.html?d=yhs.kr&hideResults=on&latest">
-  <img src="https://img.shields.io/badge/SSH%20LAB-A+-00EE00?style=for-the-badge">
-</a><br/><a href="https://teamalpha.ga/">
-  <img src="https://img.shields.io/badge/MBOT-FFAA00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PREPARING(MAKING)-AA0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
-</a>
 
 
 
