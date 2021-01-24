@@ -19,7 +19,7 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 [![time tracker](https://wakatime.com/badge/github/junhong123a/jbot.svg)](https://wakatime.com/badge/github/junhong123a/jbot)
 
 ### Project
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@gunyu1019)<br/>
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=junhong123a&theme=tokyonight)
 
 **junhongbot**
 <a href="https://discord.com/api/oauth2/authorize?client_id=503502157925056514&permissions=8&scope=bot">
