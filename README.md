@@ -21,5 +21,9 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
 <a href="https://github.com/junhong123a/jbot">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
+ </a>
 
-
+### Content Us
+<a href="mailto:junhong123a@naver.com">
+  <img src="https://img.shields.io/badge/Mail-junhong123a@naver.com-0080aa?style=for-the-badge&logo=naver">
+</a>
