@@ -14,7 +14,8 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 **I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
 
 ### Project
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@junhong123a)<br/
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gunyu1019&theme=tokyonight)](https://wakatime.com/@junhong123a)
+
 **junhongbot**
 <a href="https://discord.com/api/oauth2/authorize?client_id=503502157925056514&permissions=8&scope=bot">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
