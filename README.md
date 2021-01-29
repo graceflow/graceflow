@@ -21,6 +21,12 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ### Number of visitors
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhong123a%2Fhitcounter&count_bg=%2385CFFF&title_bg=%23555555&icon=fontawesome.svg&icon_color=%23E7E7E7&title=Visitors+todays%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### Project Table
+| / | project     | language | description     |
+|---|-------------|----------|-----------------|
+| 1 | junhongbot  | python   | My main project |
+| 2 | c++ project | c/c++    | My Subs project |
+
 ### Project
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=junhong123a&theme=tokyonight)](https://wakatime.com/@junhong123a)<br/>
 
@@ -38,6 +44,15 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ![Issues](https://img.shields.io/github/issues/junhong123a/jbot)
 ![Stars](https://img.shields.io/github/stars/junhong123a/jbot)
 ![License](https://img.shields.io/github/license/junhong123a/jbot)
+
+<a href="https://github.com/junhong123a/c+_project">
+  <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+</a>
+
+![Forks](https://img.shields.io/github/forks/junhong123a/c+_project)
+![Issues](https://img.shields.io/github/issues/junhong123a/c+_project)
+![Stars](https://img.shields.io/github/stars/junhong123a/c+_project)
+![License](https://img.shields.io/github/license/junhong123a/c+_project)
 
 ### Content Us
 <a href="mailto:junhong123a@naver.com">
