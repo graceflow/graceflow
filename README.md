@@ -26,6 +26,9 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 
 **junhongbot**
 <a href="https://discord.com/api/oauth2/authorize?client_id=503502157925056514&permissions=8&scope=bot">
+  <img src="https://nid.naver.com/user2/help/myInfo.nhn?lang=ko_KR#">
+</a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=503502157925056514&permissions=8&scope=bot">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
 <a href="https://github.com/junhong123a/jbot">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
