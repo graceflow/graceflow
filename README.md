@@ -45,14 +45,14 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ![Stars](https://img.shields.io/github/stars/junhong123a/jbot)
 ![License](https://img.shields.io/github/license/junhong123a/jbot)
 
-<a href="https://github.com/junhong123a/c+_project">
+<a href="https://github.com/junhong123a/c_project">
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
 </a>
 
-![Forks](https://img.shields.io/github/forks/junhong123a/c+_project)
-![Issues](https://img.shields.io/github/issues/junhong123a/c+_project)
-![Stars](https://img.shields.io/github/stars/junhong123a/c+_project)
-![License](https://img.shields.io/github/license/junhong123a/c+_project)
+![Forks](https://img.shields.io/github/forks/junhong123a/c_project)
+![Issues](https://img.shields.io/github/issues/junhong123a/c_project)
+![Stars](https://img.shields.io/github/stars/junhong123a/c_project)
+![License](https://img.shields.io/github/license/junhong123a/c_project)
 
 ### Content Us
 <a href="mailto:junhong123a@naver.com">
