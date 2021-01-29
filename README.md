@@ -25,8 +25,9 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=junhong123a&theme=tokyonight)](https://wakatime.com/@junhong123a)<br/>
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=503502157925056514&permissions=8&scope=bot">
-  <img src="https://blogpfthumb-phinf.pstatic.net/MjAyMTAxMzBfNiAg/MDAxNjExOTM1ODg0NDM2.YLJ9Rc2ldZ_2CU-hamL-hD_Zmf5xemMlXKo7eFk6O2Qg.adO9Pe00lk3hvYjjGKSXz2OCPegGIb8xqXm6NOltbgg.PNG.junhong123a/Screenshot_1.png?type=w161">
+  <img src="https://blogpfthumb-phinf.pstatic.net/MjAyMTAxMzBfNiAg/MDAxNjExOTM1ODg0NDM2.YLJ9Rc2ldZ_2CU-hamL-hD_Zmf5xemMlXKo7eFk6O2Qg.adO9Pe00lk3h-vYjjGKSXz2OCPegGIb8xqXm6NOltbgg.PNG.junhong123a/Screenshot_1.png?type=w161">
 </a>
+
 <a href="https://discord.com/api/oauth2/authorize?client_id=503502157925056514&permissions=8&scope=bot">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
 <a href="https://github.com/junhong123a/jbot">
