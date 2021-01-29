@@ -45,10 +45,11 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ![Stars](https://img.shields.io/github/stars/junhong123a/jbot)
 ![License](https://img.shields.io/github/license/junhong123a/jbot)
 
-<a href="c-project">
-  <img src="https://e7.pngegg.com/pngimages/399/48/png-clipart-c-computer-icons-computer-programming-logo-others-miscellaneous-blue.png">
-</a>
-
+**c-project**
+<a href="https://github.com/junhong123a/c-project">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
+ </a>
+ 
 ![Forks](https://img.shields.io/github/forks/junhong123a/c-project)
 ![Issues](https://img.shields.io/github/issues/junhong123a/c-project)
 ![Stars](https://img.shields.io/github/stars/junhong123a/c-project)
