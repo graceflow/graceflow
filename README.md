@@ -11,7 +11,7 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ![node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
 **And I Studying**
-[Java](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=java&logoColor=fff)
 
 **Thank you for listening**
 
