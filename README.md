@@ -7,11 +7,11 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ![Python](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=fff),
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000),
 ![C++](https://img.shields.io/badge/C++-0059CC?style=for-the-badge&logo=c%2B%2B&logoColor=fff),
-![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000),
+![JavaScript](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000),
 ![node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
 **And I Studying**
-![Java](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=fff)
 
 **Thank you for listening**
 
