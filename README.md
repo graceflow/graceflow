@@ -48,7 +48,7 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ![License](https://img.shields.io/github/license/junhong123a/jbot)
 
 <a href="https://github.com/junhong123a/c-project">
-  <img src="https://img.shields.io/badge/c-339933?style=for-the-badge&logo=c&logoColor=fff">
+  <img src="https://img.shields.io/badge/c++-339933?style=for-the-badge&logo=c++&logoColor=fff">
 </a>
 
 <a href="https://github.com/junhong123a/c-project">
