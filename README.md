@@ -61,10 +61,6 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ![License](https://img.shields.io/github/license/junhong123a/c-project)
 
 ### Content Us
-<a href="mailto:junhong123a@naver.com">
-  <img src="https://img.shields.io/badge/Mail-junhong123a@naver.com-0080aa?style=for-the-badge&logo=navermail">
-</a>
-
 <a href="mailto:junhong123aa@gmail.com">
   <img src="https://img.shields.io/badge/Mail-junhong123aa@gmail.com-0080aa?style=for-the-badge&logo=gmail">
 </a>
