@@ -10,6 +10,8 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 ![JavaSprict](https://img.shields.io/badge/JavaSprict-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000),
 ![node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
+**And I Studying**
+[Java](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=java&logoColor=fff)
 
 **Thank you for listening**
 
