@@ -42,10 +42,11 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
  </a>
   
-![Forks](https://img.shields.io/github/forks/junhong123a/Junhong-bot)
-![Issues](https://img.shields.io/github/issues/junhong123a/Junhong-bot)
-![Stars](https://img.shields.io/github/stars/junhong123a/Junhong-bot)
-![License](https://img.shields.io/github/license/junhong123a/Junhong-bot)
+![Forks](https://img.shields.io/github/forks/junhong123a/c-project)
+![Issues](https://img.shields.io/github/issues/junhong123a/c-project)
+![Stars](https://img.shields.io/github/stars/junhong123a/c-project)
+![License](https://img.shields.io/github/license/junhong123a/c-project)
+
 
 <a href="https://github.com/junhong123a/c-project">
   <img src="https://img.shields.io/badge/c-339933?style=for-the-badge&logo=c&logoColor=fff">
@@ -55,10 +56,6 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
  </a>
  
-![Forks](https://img.shields.io/github/forks/junhong123a/c-project)
-![Issues](https://img.shields.io/github/issues/junhong123a/c-project)
-![Stars](https://img.shields.io/github/stars/junhong123a/c-project)
-![License](https://img.shields.io/github/license/junhong123a/c-project)
 
 ### Content Us
 <a href="mailto:junhong123aa@gmail.com">
