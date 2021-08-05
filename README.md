@@ -39,6 +39,8 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 <a href="https://discord.com/api/oauth2/authorize?client_id=871442672911532132&permissions=8&scope=bot">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
   
+ <br>
+  
 <a href="https://github.com/junhong123a/c-project">
   <img src="https://img.shields.io/badge/c-339933?style=for-the-badge&logo=c&logoColor=fff">
 </a>
