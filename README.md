@@ -38,14 +38,14 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 
 <a href="https://discord.com/api/oauth2/authorize?client_id=871442672911532132&permissions=8&scope=bot">
   <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
-<a href="https://github.com/junhong123a/Junhong bot">
+<a href="https://github.com/junhong123a/Junhong-bot">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
  </a>
   
-![Forks](https://img.shields.io/github/forks/junhong123a/jbot)
-![Issues](https://img.shields.io/github/issues/junhong123a/jbot)
-![Stars](https://img.shields.io/github/stars/junhong123a/jbot)
-![License](https://img.shields.io/github/license/junhong123a/jbot)
+![Forks](https://img.shields.io/github/forks/junhong123a/Junhong-bot)
+![Issues](https://img.shields.io/github/issues/junhong123a/Junhong-bot)
+![Stars](https://img.shields.io/github/stars/junhong123a/Junhong-bot)
+![License](https://img.shields.io/github/license/junhong123a/Junhong-bot)
 
 <a href="https://github.com/junhong123a/c-project">
   <img src="https://img.shields.io/badge/c-339933?style=for-the-badge&logo=c&logoColor=fff">
