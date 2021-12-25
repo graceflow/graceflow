@@ -17,7 +17,7 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 
 **I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
 
-### Time Traker
+### Time Traker(Stop Projects)
 [![time tracker](https://wakatime.com/badge/github/junhong123a/jbot.svg)](https://wakatime.com/badge/github/junhong123a/jbot)
 
 ### Number of visitors
@@ -41,16 +41,16 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
   
  <br>
   
-<a href="https://github.com/junhong123a/c-project">
+<a href="https://github.com/junhong123a/c-labaratory">
   <img src="https://img.shields.io/badge/c-339933?style=for-the-badge&logo=c&logoColor=fff">
 </a>
   
-![Forks](https://img.shields.io/github/forks/junhong123a/c-project)
-![Issues](https://img.shields.io/github/issues/junhong123a/c-project)
-![Stars](https://img.shields.io/github/stars/junhong123a/c-project)
-![License](https://img.shields.io/github/license/junhong123a/c-project)
+![Forks](https://img.shields.io/github/forks/junhong123a/c-labaratory)
+![Issues](https://img.shields.io/github/issues/junhong123a/c-labaratory)
+![Stars](https://img.shields.io/github/stars/junhong123a/c-labaratory)
+![License](https://img.shields.io/github/license/junhong123a/c-labaratory)
 
-<a href="https://github.com/junhong123a/c-project">
+<a href="https://github.com/junhong123a/junhong123a/c-labaratory">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
  </a>
  
