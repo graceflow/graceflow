@@ -1,4 +1,4 @@
-### Hi there 👋 My nave is Seong Junong!
+### Hi there 👋 My nave is Seong Junhong!
 I am an ordinary middle school student who is close to my hobby, and I am learning programming by creating discord robots.
 ![junhong123a's github Status](https://github-readme-stats.vercel.app/api?username=junhong123a&count_private=true&show_icons=true&theme=tokyonight)
 ### Top Language
