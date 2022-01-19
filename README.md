@@ -13,9 +13,9 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 **And I Studying**
 ![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=fff)
 
-**Thank you for listening**
-
 **I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
+
+**My Discord ID is Dev. 성준홍#0001**
 
 ### Time Traker(Stop Projects)
 [![time tracker](https://wakatime.com/badge/github/junhong123a/jbot.svg)](https://wakatime.com/badge/github/junhong123a/jbot)
@@ -59,3 +59,5 @@ I am an ordinary middle school student who is close to my hobby, and I am learni
 <a href="mailto:junhong123aa@gmail.com">
   <img src="https://img.shields.io/badge/Mail-junhong123aa@gmail.com-0080aa?style=for-the-badge&logo=gmail">
 </a>
+
+**Thank you for listening**
