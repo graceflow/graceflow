@@ -16,7 +16,7 @@ creating discord robots.
 
 **I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
 
-**My Discord ID is Dev. 성준홍#0001**
+**My Discord ID is Dev. 준홍#0001**
 
 ### Time Traker(Stop Projects)
 [![time tracker](https://wakatime.com/badge/github/junhong123a/jbot.svg)](https://wakatime.com/badge/github/junhong123a/jbot)
