@@ -56,5 +56,6 @@ creating discord robots.
 <a href="mailto:junhong123aa@gmail.com">
   <img src="https://img.shields.io/badge/Mail-junhong123aa@gmail.com-0080aa?style=for-the-badge&logo=gmail">
 </a>
+or Discord Dev. 준홍#0001
 
 **Thank you for listening**
