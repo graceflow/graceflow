@@ -18,9 +18,6 @@ creating discord robots.
 
 **My Discord ID is Dev. 준홍#0001**
 
-### Time Traker(Stop Projects)
-[![time tracker](https://wakatime.com/badge/github/junhong123a/jbot.svg)](https://wakatime.com/badge/github/junhong123a/jbot)
-
 ### Number of visitors
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhong123a%2Fhitcounter&count_bg=%2385CFFF&title_bg=%23555555&icon=fontawesome.svg&icon_color=%23E7E7E7&title=Visitors+todays%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
 
