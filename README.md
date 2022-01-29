@@ -31,8 +31,6 @@ creating discord robots.
 | 2 | c++ project | c/c++    | My Subs project |
 
 ### Project
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=junhong123a&theme=tokyonight)](https://wakatime.com/@junhong123a)<br/>
-
 <a href="https://discord.com/api/oauth2/authorize?client_id=871442672911532132&permissions=8&scope=bot">
   <img src="https://blogpfthumb-phinf.pstatic.net/MjAyMTAxMzBfNiAg/MDAxNjExOTM1ODg0NDM2.YLJ9Rc2ldZ_2CU-hamL-hD_Zmf5xemMlXKo7eFk6O2Qg.adO9Pe00lk3h-vYjjGKSXz2OCPegGIb8xqXm6NOltbgg.PNG.junhong123a/Screenshot_1.png?type=w161">
 </a>
