@@ -24,9 +24,8 @@ creating discord robots.
 ### Project Table
 | / |     project    | language |    description   |
 |---|----------------|----------|------------------|
-| 1 | JB             | javascript| My main project |
-| 2 | c++ project    | c/c++     | My Subs project |
-| 3 | python project | python    | My Subs project |
+| 1 | c++ project    | c/c++     | My Subs project |
+| 2 | python project | python    | My Subs project |
 
 ### Project
 <a href="https://discord.com/api/oauth2/authorize?client_id=871442672911532132&permissions=8&scope=bot">
