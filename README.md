@@ -14,7 +14,7 @@ creating discord robots.
 **And I Studying**
 ![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=fff)
 
-**I am running to youtube. url = " https://www.youtube.com/channel/UCd-1tvBhwKmtvFTNiVUuLmg "**
+**I am running to youtube. url = " https://www.youtube.com/@lpjunhong "**
 
 **My Discord ID is Dev. 준홍#0001**
 
@@ -28,14 +28,6 @@ creating discord robots.
 | 2 | python project | python    | My Subs project |
 
 ### Project
-<a href="https://discord.com/api/oauth2/authorize?client_id=871442672911532132&permissions=8&scope=bot">
-  <img src="https://blogpfthumb-phinf.pstatic.net/MjAyMTAxMzBfNiAg/MDAxNjExOTM1ODg0NDM2.YLJ9Rc2ldZ_2CU-hamL-hD_Zmf5xemMlXKo7eFk6O2Qg.adO9Pe00lk3h-vYjjGKSXz2OCPegGIb8xqXm6NOltbgg.PNG.junhong123a/Screenshot_1.png?type=w161">
-</a>
-
-<a href="https://discord.com/api/oauth2/authorize?client_id=871442672911532132&permissions=8&scope=bot">
-  <img src="https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge">
-  
- <br>
   
 <a href="https://github.com/junhong123a/c-labaratory">
   <img src="https://img.shields.io/badge/c-339933?style=for-the-badge&logo=c&logoColor=fff">
