@@ -1,6 +1,4 @@
 ### Hi there 👋 My nave is Seong Junhong!
-I am an ordinary middle school student who is close to my hobby, and I am learning programming by 
-creating discord robots.
 ![junhong123a's github Status](https://github-readme-stats.vercel.app/api?username=junhong123a&count_private=true&show_icons=true&theme=tokyonight)
 ### Top Language
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=junhong123a&theme=tokyonight&layout=compact)<br/>
@@ -48,8 +46,5 @@ creating discord robots.
   <img src="https://img.shields.io/badge/Mail-junhong123aa@gmail.com-0080aa?style=for-the-badge&logo=gmail">
 </a>
 or Discord Dev. 준홍#0001
-  
-  
-  ### https://junhong123a.github.io/discord-junhong/
 
 **Thank you for listening**
