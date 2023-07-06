@@ -9,14 +9,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 #
-**I am running to youtube. url = " https://www.youtube.com/@devjunhong "**
+**I am running to youtube. url = " https://www.youtube.com/@sn.junhong "**
+**And, My Personal Page is https://junhong123a.kr **
 
 **My Discord ID is Dev. 준홍#0001**
 
 ### Content Us
-<a href="mailto:junhong123aa@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-junhong123aa@gmail.com-0080aa?style=for-the-badge&logo=gmail">
-</a>
-or Discord Dev. 준홍#0001
+"Discord = np.junhong"
+"Mail = junhong123a@naver.com"
+"Namu.wiki = https://namu.wiki/w/사용자:junhong123a"
 
 **Thank you for listening!**
