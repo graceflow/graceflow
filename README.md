@@ -7,23 +7,23 @@
 자세한 정보는 아래 링크를 참고해주세요.<br/>
 감사합니다.<br/>
 
-### S T A T
+### Stats
 ---
 ![junhong123a's github Status](https://github-readme-stats.vercel.app/api?username=junhong123a&count_private=true&show_icons=true&theme=tokyonight)
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=junhong123a&theme=tokyonight&layout=compact)<br/>
 
-### M A J O R - L A N G U A G E S
+### Major Languages
 ---
 * Python 3
 * HTML + CSS
 * Javascript
 * C, C#, C++
 
-### S E R V I C E S
+### Services
 ---
 * https://junhong123a.kr/
 * https://youtube.com/@sn.junhong
 
-### C O N T A C T
+### Contact
 ---
 * https://junhong123a.kr/contact
