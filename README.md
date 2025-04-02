@@ -4,16 +4,16 @@
 대학병원 간호사를 꿈꾸는 INFJ입니다.<br>
 상담 관련 오픈채팅방과 유튜브등에서 활동합니다.
 
-### Stats
+### | Stats
 ![junhong123a's github Status](https://github-readme-stats.vercel.app/api?username=junhong123a&count_private=true&show_icons=true&theme=tokyonight)
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=junhong123a&theme=tokyonight&layout=compact)<br/>
 
-### Major Languages
+### | Major Languages
 * Java
 
-### Services
+### | Services
 * https://junhong123a.notion.site/
 * https://youtube.com/@하온샘찬양
 
-### Contact
+### | Contact
 * in Website.
