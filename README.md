@@ -6,14 +6,13 @@
 
 ### | Stats
 ![junhong123a's github Status](https://github-readme-stats.vercel.app/api?username=graceflow&count_private=true&show_icons=true&theme=tokyonight)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=graceflow&theme=tokyonight&layout=compact)<br/>
 
 ### | Major Languages
 * Java
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=graceflow&theme=tokyonight&layout=compact)<br/>
 
 ### | Services
 * https://junhong123a.notion.site/
-* https://youtube.com/@하온샘찬양
 
 ### | Contact
 * in Website.
