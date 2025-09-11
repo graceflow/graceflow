@@ -15,4 +15,4 @@
 하온샘 웹사이트 - https://grace-flow.org/
 
 ### | Contact
-* in Website.
+하온샘 연락처 - https://grace-flow.org/contact
