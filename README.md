@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 안녕하세요, 하온샘 입니다.
+> 세상의 빛과 소금이 되기를 소망하며 살아갑니다.
+> 도움이 필요한 다음세대를 섬기는 사역을 하고 있습니다.
+---
 
-<!--
-**graceflow/graceflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- ⛪ **Affiliation:** [대한예수교장로회(고신) 가음정교회](https://kejc.or.kr/), [누리안심다리](https://nurisafe.org/)
+- 🏫 **Community:** 스쿨처치커뮤니티 / New Way / 유관기관 8개소 등
+- 👤 **MBTI:** INFJ
 
-Here are some ideas to get you started:
+### 🛠️ What I Do (Activities)
+- 📱 **사이버 아웃리치**
+  - 카카오톡 청소년 고민상담 오픈채팅방 운영
+  - 누리안심다리 누리활동가, 누리상담사
+  - 긴급구호뱅크 운영
+- 🎬 **미디어 사역**
+  - 가음정교회 라이브(현장) 엔지니어
+  - "하온샘의 찬양 이야기" 유튜브 채널 운영
+- 🤝 **협력 교회 지원**
+  - 협력하고 있는 교회를 미디어, 인력, 자료제작 등의 다양한 분야에서 지원
+ 
+### 💻 Tech Stacks & Tools
+- 🎥 **Media Engineering**
+  - Photoshop, After Effects, Premiere Pro, etc.
+- 🌐 **Web & Programming**
+  - Python, React, HTML/CSS, Git, etc.
+- 🛠️ **Management**
+  - Notion, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me
+- **Website:** [grace-flow.org](https://grace-flow.org)
+- **YouTube:** [하온샘의 찬양 이야기](https://youtube.com/@하온샘찬양)
+- **Contact:** [Contact Page](https://grace-flow.org/contact)
+---
